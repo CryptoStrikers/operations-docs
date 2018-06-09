@@ -31,7 +31,7 @@ You are responsible for any tax consequences, if any, that may result from your 
 
 After an Invited User makes 8 Qualifying Purchases, the Referring User will accrue credit for Referral Bonuses. Qualifying Purchases will be tracked through July 15, 2018. Once the Invited Users brought to the Application by the Referring User have made 8 Qualifying Purchases, the Referring User will earn 10% of revenue generated from Invited User Qualifying Purchases during the period from June 11, 2018 to July 15, 2018, at 11:59 PM ET. 
 
-Users can claim Referral Bonuses by clicking the applicable ‘Withdraw Bonus’ button on their Profile page starting whenever Referral Bonuses accrue. CryptoStrikers will send Referral Bonus payments in ETH directly to the wallets of Program Participants. Users who do not claim Referral Bonuses by this process by July 23,2018 will forfeit them. 
+Users can claim Referral Bonuses by clicking the applicable ‘Withdraw Bonus’ button on their Profile page starting whenever Referral Bonuses accrue. CryptoStrikers will send Referral Bonus payments in ETH directly to the wallets of Program Participants. **_Users who do not claim Referral Bonuses by this process by July 23, 2018 will forfeit them._** 
 
 **Sharing Referral Links**
 
