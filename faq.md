@@ -59,10 +59,7 @@ Your digital wallet acts as your login to the CryptoStrikers application. You wi
 
 Here is a [step-by-step guide](https://medium.com/cryptostrikers/getting-started-how-to-install-metamask-4a2d9c18b4cc) to install MetaMask. If video is more your thing, watch the intro below.
 
-
-NEED IMAGE/VIDEO + LINK HERE
-
-
+[![Image Alt Text](https://github.com/CryptoStrikers/legal-docs/blob/master/metamask.png)](https://www.youtube.com/watch?time_continue=4&v=tfETpi-9ORs)
 
 **Why is MetaMask locked?**
 
