@@ -128,7 +128,7 @@ Cards can be bought in packs of 4 by going to the ‘Buy Cards’ link. Cards ca
 
 **How do I find out which Iconics card is available in a Premium Sale?**
 
-Check the Buy Packs page often or keep any eye out for announcements via email, and our social accounts, subreddit, and Discord.
+Check the Buy Packs page often or keep any eye out for announcements via email, and our social accounts, subreddit, and [Discord](https://discord.gg/7CSBBBb).
 
 **How do I sell CryptoStrikers cards?**
 
@@ -171,7 +171,7 @@ Once you ‘submit’ your trade offer, you will receive a ‘trade offer link�
 
 **How can I find trading partners?**
 
-You can post a message on our subreddit or our #trading channel on Discord to find trading partners. You can also contact people you know directly through whatever communication method you prefer.
+You can post a message on our subreddit or our #trading channel on [Discord](https://discord.gg/7CSBBBb) to find trading partners. You can also contact people you know directly through whatever communication method you prefer.
 
 **How do I accept a trade offer that I’ve received from another user?**
 
@@ -183,7 +183,7 @@ Yes. To cancel a trade offer, go to your Activity Feed, locate the trade offer y
 
 **Why can’t I create trades with multiple players?**
 
-That functionality is not set up in the initial release of CryptoStrikers. It is a feature that we’d like to offer in a future iteration of the game. (Do you have other ideas on features we should offer? Please contact us at feedback@cryptostrikers.com or on our Discord channel.)
+That functionality is not set up in the initial release of CryptoStrikers. It is a feature that we’d like to offer in a future iteration of the game. (Do you have other ideas on features we should offer? Please contact us at feedback@cryptostrikers.com or on our [Discord](https://discord.gg/7CSBBBb) channel.)
 
 ## Award Giveaways/Referral Program
 
@@ -194,6 +194,7 @@ There are 2 awards that all CryptoStrikers users are eligible to win.
 **Qualifications**
 
 (1) Originals  - collection of all 100 individual player cards from set
+
 (2) Iconics - collection of all 32 individual player cards from set
 
 Users who qualify for any of the contest prizes (users can win any or all of the prizes) will be eligible for the following prize awards:
@@ -201,6 +202,7 @@ Users who qualify for any of the contest prizes (users can win any or all of the
 **Awards**
 
 (1) Originals 100 - 1 high quality poster print of any Originals player, either 11” x 17” (24 x 43 cm) or 18” x 24” (46 x 61 cm)
+
 (2) Iconics 32 - 1 high quality poster print of any Originals player, either 11” x 17” (24 x 43 cm) or 18” x 24” (46 x 61 cm)
 
 The contest period ends at the end of July 20, 2018. We will endeavor to send all the Award posters within thirty business days of the conclusion of the Giveaway Period on July 25, 2018.
