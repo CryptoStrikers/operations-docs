@@ -140,7 +140,7 @@ YOUR AFFIRM THAT YOU ARE OVER THE AGE OF 16, AS THE APPLICATION IS NOT INTENDED 
 
 **15. Privacy Policy**
 
-Our Privacy Policy describes the ways we collect, use, store and disclose your personal information, and is hereby incorporated by this reference into these Terms. You agree to the collection, use, storage, and disclosure of your data in accordance with our Privacy Policy.
+Our [Privacy Policy](https://github.com/CryptoStrikers/legal-docs/blob/master/privacy.md) describes the ways we collect, use, store and disclose your personal information, and is hereby incorporated by this reference into these Terms. You agree to the collection, use, storage, and disclosure of your data in accordance with our Privacy Policy.
 
 **16. Referral Program**
 
