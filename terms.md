@@ -144,7 +144,7 @@ Our [Privacy Policy](https://github.com/CryptoStrikers/legal-docs/blob/master/pr
 
 **16. Referral Program**
 
-Our Referral Program outlines the rules by which a user may join the CryptoStrikers Referral Program, and is hereby incorporated by this reference into these Terms. You agree to the participate in the Referral Program in accordance with the rules outlined.
+Our [Referral Program](https://github.com/CryptoStrikers/legal-docs/blob/master/referral-program.md) outlines the rules by which a user may join the CryptoStrikers Referral Program, and is hereby incorporated by this reference into these Terms. You agree to the participate in the Referral Program in accordance with the rules outlined.
 
 **17. Dispute Resolution; Arbitration**
 
