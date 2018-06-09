@@ -128,7 +128,7 @@ Cards can be bought in packs of 4 by going to the ‘Buy Cards’ link. Cards ca
 
 **How do I find out which Iconics card is available in a Premium Sale?**
 
-Check the Buy Packs page often or keep any eye out for announcements via email, and our social accounts, subreddit, and [Discord](https://discord.gg/7CSBBBb).
+Check the Buy Packs page often or keep any eye out for announcements via email, and our social accounts, [subreddit](https://www.reddit.com/r/cryptostrikers), and [Discord](https://discord.gg/7CSBBBb).
 
 **How do I sell CryptoStrikers cards?**
 
@@ -171,7 +171,7 @@ Once you ‘submit’ your trade offer, you will receive a ‘trade offer link�
 
 **How can I find trading partners?**
 
-You can post a message on our subreddit or our #trading channel on [Discord](https://discord.gg/7CSBBBb) to find trading partners. You can also contact people you know directly through whatever communication method you prefer.
+You can post a message on our [subreddit](https://www.reddit.com/r/cryptostrikers) or our #trading channel on [Discord](https://discord.gg/7CSBBBb) to find trading partners. You can also contact people you know directly through whatever communication method you prefer.
 
 **How do I accept a trade offer that I’ve received from another user?**
 
@@ -205,7 +205,7 @@ Users who qualify for any of the contest prizes (users can win any or all of the
 
 (2) Iconics 32 - 1 high quality poster print of any Originals player, either 11” x 17” (24 x 43 cm) or 18” x 24” (46 x 61 cm)
 
-The contest period ends at the end of July 20, 2018. We will endeavor to send all the Award posters within thirty business days of the conclusion of the Giveaway Period on July 25, 2018.
+The Giveaway Period ends at the end of July 20, 2018. We will endeavor to send all the Award posters within thirty business days of the conclusion of the Giveaway Period on July 25, 2018.
 
 **What are the benefits of joining the Referral Program?**
 
