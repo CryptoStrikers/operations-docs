@@ -131,10 +131,10 @@ Cookies are small files that a site or its service provider transfers to your co
 We use cookies and other similar identifiers to understand and save your preferences for future visits, to advertise to you on other sites, and to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 You may refuse to accept cookies by activating the setting on your browser that allows you to refuse the setting of cookies. You can find information on popular browsers and how to adjust your cookie preferences at the following websites:
 
-* Microsoft Internet Explorer
-* Mozilla Firefox
-* Google Chrome
-* Apple Safari
+* [Mozilla Firefox](https://www.mozilla.org/en-US/firefox)
+* [Google Chrome](https://www.google.com/chrome)
+* [Opera](www.opera.com)
+* [Brave](https://brave.com)
  
 However, if you choose to disable cookies, you may be unable to access certain parts of our site. A banner asking you to accept our cookies policy will be displayed upon the first visit to our Site (or the first visit after you delete your cookies). Unless you have adjusted your browser setting so that it will refuse cookies and/or you have not accepted our cookies policy, our system will issue cookies when you log on to our site.
 
