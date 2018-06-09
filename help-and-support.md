@@ -4,12 +4,6 @@
 
 ## Help with CryptoStrikers
 
-**How does Etherscan work with my CryptoStrikers transactions?**
-
-Check out this overview video:
-
-NEED IMAGE/VIDEO HERE
-
 **I can’t get figure out how to get CryptoStrikers cards**
 
 There are a few ways to get new cards. You can either buy a pack of cards, buy a single card from the Marketplace, or ask another user to gift you a card. You will need Ether to buy packs or cards - you can learn more about how to get Ether here.
@@ -51,6 +45,10 @@ First, we should explain that your CryptoStrikers username is linked to your wal
 You can go to your profile page and gift any of your cards to your other address (the one you'd like to keep using) for free, just covering the gas fee that the Ethereum network charges for processing your transaction.
 
 ## Help with Transactions and Ethereum
+
+**How does Etherscan work with my CryptoStrikers transactions?**
+
+Etherscan serves as a search engine that allows users to easily lookup, confirm, and validate transactions that have taken place on the Ethereum Blockchain. In your Activity Feed, you will see verification links next to every transaction that you execute on CryptoStrikers. If you click any link, you will be taken to Etherscan to verify information relating to the specific transaction.
 
 **My transactions keep failing**
 
