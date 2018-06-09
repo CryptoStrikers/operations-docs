@@ -47,7 +47,7 @@ Users that collect the requisite cards to obtain either reward are ‘Qualified 
 
 Qualified Collectors can earn either or both Awards. Qualified Collectors of any Award will need to claim such Award by clicking the applicable “Claim Award” button on their Profile page starting at 12:00am EDT on July 16, 2018. CryptoStrikers will send Qualified Collectors an email with information on how to claim their Award. Users who do not claim Awards by this process by 12:01 EDT on July 25, 2018 will forfeit them. 
 
-Form more information, see the Award Giveaway Rules. For instructions on how to collect all the cards, see supra “Our Cards,” Section 1(a)-(d).
+Form more information, see the [Award Giveaway Rules](https://github.com/CryptoStrikers/legal-docs/blob/master/award-giveaway.md). For instructions on how to collect all the cards, see supra “Our Cards,” Section 1(a)-(d).
 
 B. Termination and Changes
 
