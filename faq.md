@@ -57,7 +57,7 @@ Your digital wallet acts as your login to the CryptoStrikers application. You wi
 
 **_Note:_** The MetaMask wallet acts like a bank account—treat it with respect and make sure you don’t forget your password or the seed words. CryptoStrikers cannot restore your account if you lose your credentials.
 
-Here is a [step-by-step guide](https://medium.com/cryptostrikers/getting-started-how-to-install-metamask-4a2d9c18b4cc) to install MetaMask. If video is more your thing, watch the intro below.
+Here is a [step-by-step guide](https://medium.com/cryptostrikers/getting-started-how-to-install-metamask-4a2d9c18b4cc) to install MetaMask. If video is more your thing, click the image below to watch a video.
 
 [![Image Alt Text](https://github.com/CryptoStrikers/legal-docs/blob/master/metamask.png)](https://www.youtube.com/watch?time_continue=4&v=tfETpi-9ORs)
 
@@ -65,7 +65,7 @@ Here is a [step-by-step guide](https://medium.com/cryptostrikers/getting-started
 
 MetaMask automatically locks your account after a certain period of time. To unlock MetaMask, simply click on the MetaMask extension and type in your password.
 
-NEED IMAGE/VIDEO + LINK HERE
+![Image Alt Text](https://github.com/CryptoStrikers/legal-docs/blob/master/metamask-locked.png)
 
 **Reinstalling MetaMask**
 
@@ -81,7 +81,7 @@ You need to convert your currency (e.g. USD, CAD, GBP, etc.) into Ether to pay f
 
 **_For U.S. citizens only:_** From the CryptoStrikers web app, you can buy Ether (ETH) in MetaMask. ETH is the digital currency that enables CryptoStrikers to operate. Users who are accessing CryptoStrikers from a mobile wallet, or do not wish to use the Coinbase widget from the MetaMask browser extension, will need to purchase ETH as described below.
 
-NEED IMAGE/VIDEO + LINK HERE
+![Image Alt Text](https://github.com/CryptoStrikers/legal-docs/blob/master/metamask-eth.png)
 
 **_For everyone else:_** You will need to purchase ETH from an exchange, and then transfer the ETH from your exchange wallet to your MetaMask wallet. Unfortunately, you cannot play CryptoStrikers with only an exchange account.
 
@@ -93,7 +93,7 @@ For U.S. citizens only: From the CryptoStrikers web app, you are able to purchas
 
 For everyone else: You need to buy ETH from an exchange using normal fiat currency. Copy your MetaMask address by clicking on the copy icon‘’ next to your account. Go to your exchange, click ‘Accounts’, and select your ETH Wallet and click ‘send’. Paste the MetaMask address in the box with the amount you’d like to transfer.
 
-NEED IMAGE/VIDEO + LINK HERE
+[![Image Alt Text](https://github.com/CryptoStrikers/legal-docs/blob/master/metamask-eth-global.png)](https://www.youtube.com/watch?v=PtdMDtCVck0)
 
 **What is ‘gas’?**
 
