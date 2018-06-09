@@ -1,11 +1,11 @@
-**CryptoStrikers Terms of Use**
+# CryptoStrikers Terms of Use
 Last Updated: June 8, 2018
 
 CryptoStrikers is a distributed application that runs on the Ethereum network, using internally developed smart contracts (each, a “Smart Contract”) to enable users to own, transfer, and obtain unique digital trading cards (“Cards”), which the user can interact with on a website (www.cryptostrikers.com) (the “Site”). The Smart Contracts and the Site are collectively referred to in these Terms as the “Application”. Using the Application, users can view their Card and use the Smart Contracts to acquire and trade Cards with other Application users via marketplace sales.
 
 CRYPTOSTRIKERS LLC ("CryptoStrikers", "we", or "us") is making the Application available to you. Before you use the Application, the Smart Contracts, or the Site, however, you will need to agree to these Terms of Use and any terms and conditions incorporated herein by reference (collectively, these “Terms"). PLEASE READ THESE TERMS CAREFULLY BEFORE USING THE APPLICATION, THE SMART CONTRACTS, OR THE SITE. THESE TERMS GOVERN YOUR USE OF THE APPLICATION, THE SMART CONTRACTS, AND THE SITE, UNLESS WE HAVE EXECUTED A SEPARATE WRITTEN AGREEMENT WITH YOU FOR THAT PURPOSE. WE ARE ONLY WILLING TO MAKE THE APPLICATION, THE SMART CONTRACTS, AND THE SITE AVAILABLE TO YOU IF YOU ACCEPT ALL OF THESE TERMS. BY USING THE APPLICATION, THE SMART CONTRACTS, THE SITE, OR ANY PART OF THEM, EITHER VIA CLICKING “ACCEPT” IN THE REGISTRATION/SIGN UP FLOW FOR THE SITE OR INDICATING YOUR ACCEPTANCE OTHERWISE, YOU ARE CONFIRMING THAT YOU UNDERSTAND AND AGREE TO BE BOUND BY ALL OF THESE TERMS. IF YOU ARE ACCEPTING THESE TERMS ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE LEGAL AUTHORITY TO ACCEPT THESE TERMS ON THAT ENTITY’S BEHALF, IN WHICH CASE “YOU” WILL MEAN THAT ENTITY. IF YOU DO NOT HAVE SUCH AUTHORITY, OR IF YOU DO NOT ACCEPT ALL OF THESE TERMS, THEN WE ARE UNWILLING TO MAKE THE APPLICATION, THE SMART CONTRACTS, OR THE SITE AVAILABLE TO YOU. IF YOU DO NOT AGREE TO THESE TERMS, YOU MAY NOT ACCESS OR USE THE APPLICATION, THE SMART CONTRACTS, OR THE SITE.
 
-1. Our Cards
+**1. Our Cards**
 
 A. We have utilized Smart Contracts to develop multiple sets of Cards. The initial set of 100 Cards (‘Originals’) will be available for purchase in packs of 4 Cards (‘Normal Sale’) on the day we first launch the Application until 11:59pm EDT on July 15, 2018. Our Smart Contracts enforce a hard limit of 302,464 packs of Originals Cards, 800,000 Cards total.
 
@@ -15,7 +15,7 @@ C. Originals Cards will also be distributed from time to time via ‘Premium Sal
 
 D. Users my collect cards via Buying Packs, buying individual cards in the Marketplace, trading cards with other users, receiving gifts from other users or via CryptoStrikers promotions, or earning award cards via the Referral Program.
 
-2. The Application
+**2. The Application**
 
 A. To use the Application, you must use either a (1) compatible web browser - either Chrome, Firefox, Opera, or Brave, and then install a browser extension called MetaMask; or (2) a mobile ethereum wallet application that is MetaMask compatible - such as Cipher Browser, Toshi, Trust Wallet, or Status. MetaMask is an electronic wallet, which allows you to purchase (either directly via Coinbase if you are in the United States, or via other third party sites), store, and engage in transactions using Ethereum cryptocurrency. You will not be able to engage in any transactions on the Application other than through MetaMask (or other Ethereum-compatible browsers). The Application will only recognize you as a user, and you will only be able to interact with the Application, if your Ethereum electronic wallet is connected and unlocked through your MetaMask account. There is no other way to sign up as a user, or to interact directly with the Application.
 
@@ -25,7 +25,7 @@ C. We neither own nor control MetaMask, Coinbase, Google Chrome, Firefox, Opera,
 
 D. You must provide accurate and complete registration information when you create an account for the Application. By creating an account, you agree to provide accurate, current and complete account information about yourself, and to maintain and promptly update as necessary your account information. You are responsible for the security of your account and your MetaMask wallet (and other Ethereum wallets and accounts). If you become aware of any unauthorized use of your password or of your account with us, you agree to notify us immediately at terms@cryptostrikers.com.
 
-3. Fees and Payment
+**3. Fees and Payment**
 
 A. If you elect to purchase, trade, or enter award giveaways to obtain Cards using the Application, or with or from other users via the Application, any financial transactions that you engage in will be conducted solely through the Ethereum network via MetaMask. We will have no insight into or control over these payments or transactions, nor do we have the ability to reverse any transactions. With that in mind, we will have no liability to you or to any third party for any claims or damages that may arise as a result of any transactions that you engage in via the Application, or using the Smart Contracts, or any other transactions that you conduct via the Ethereum network or MetaMask.
 
@@ -33,7 +33,7 @@ B. Ethereum requires the payment of a transaction fee (a “Gas Fee”) for ever
 
 C. As between us, you will be solely responsible to pay any and all sales, use, value-added and other taxes, duties, and assessments (except taxes on our net income) now or hereafter claimed or imposed by any governmental authority (collectively, “Taxes”) associated with your use of the Application (including, without limitation, any Taxes that may become payable as the result of your ownership, transfer, or acquisition of any of your Cards). Except for income taxes levied on CryptoStrikers, you: (i) will pay or reimburse us for all national, federal, state, local or other taxes and assessments of any jurisdiction, including value added taxes and taxes as required by international tax treaties, customs or other import or export taxes, and amounts levied in lieu thereof based on charges set, services performed or payments made hereunder, as are now or hereafter may be imposed under the authority of any national, state, local or any other taxing jurisdiction; and (ii) shall not be entitled to deduct the amount of any such taxes, duties or assessments from payments made to us pursuant to these Terms.
 
-4. CryptoStrikes “Collect Them All!” Awards Giveaway 
+**4. CryptoStrikes “Collect Them All!” Awards Giveaway**
 
 A. Types and Qualification
 
@@ -59,7 +59,7 @@ C. Other
 
 You are responsible for any Tax consequences, if any, that may result from you receiving Awards. Where applicable, CryptoStrikers may be required to account for VAT on any Awards that are received.
 
-5. Ownership; Restrictions
+**5. Ownership; Restrictions**
 
 A. You acknowledge and agree that we (or, as applicable, our licensors) own all legal right, title and interest in and to all elements of the Application, and all intellectual property rights therein. The visual interfaces, graphics (including, without limitation, all art and drawings associated with the Cards), design, systems, methods, information, computer code, software, services, “look and feel”, organization, compilation of the content, code, data, and all other elements of the Application (collectively, the “CrypoStrikers Materials”) are owned by CryptoStrikers, and are protected by copyright, trade dress, patent, and trademark laws, international conventions, other relevant intellectual property and proprietary rights, and applicable laws. All CryptoStrikers Materials are the copyrighted property of CryptoStrikers or its licensors, and all trademarks, service marks, and trade names contained in the CryptoStrikers Materials are proprietary to CryptoStrikers or its licensors. Except as expressly set forth herein, your use of the Application does not grant you ownership of or any other rights with respect to any content, code, data, or other materials that you may access on or through the Application. We reserve all rights in and to the CryptoStrikers Materials not expressly granted to you in the limited license as described below.
 
@@ -72,12 +72,11 @@ C. You agree that you are responsible for your own conduct while accessing or us
 D. You may not attempt to gain unauthorized access to any portion or feature of the Site, or any other systems or networks connected to the Site or the Application, or to any of the services offered on or through the Site, by hacking, password "mining", or any other illegitimate means.
 You may not use the Site or the Application for any purpose that is unlawful or prohibited by these Terms of Use, or to solicit the performance of any illegal activity or other activity which infringes the rights of CryptoStrikers.
 
-6. Termination
+**6. Termination**
 
 You may terminate these Terms at any time by canceling your account on the Application and discontinuing your access to and use of the Application. You will not receive any refunds if you cancel your account, or otherwise terminate these Terms. You agree that we, in our sole discretion and for any or no reason, may terminate these Terms and suspend and/or terminate your account(s) for the Application. You agree that any suspension or termination of your access to the Application may be without prior notice, and that we will not be liable to you or to any third party for any such suspension or termination. If we terminate these Terms or suspend or terminate your access to or use of the Application due to your breach of these Terms or any suspected fraudulent, abusive, illicit or illegal activity, then termination of these Terms will be in addition to any other remedies we may have at law or in equity. Upon any termination or expiration of these Terms, whether by you or us, you may no longer have access to information that you have posted on the Application or that is related to your account, and you acknowledge that we will have no obligation to maintain any such information in our databases or to forward any such information to you or to any third party. Sections 2.A, 2.C and 3 through 18 will survive the termination or expiration of these Terms for any reason.
 
-
-7. Disclaimers
+**7. Disclaimers**
 
 A. YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR ACCESS TO AND USE OF THE APPLICATION IS AT YOUR SOLE RISK, AND THAT THE APPLICATION IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED. TO THE FULLEST EXTENT PERMISSIBLE PURSUANT TO APPLICABLE LAW, WE, OUR SUBSIDIARIES, AFFILIATES, AND LICENSORS MAKE NO EXPRESS WARRANTIES AND HEREBY DISCLAIM ALL IMPLIED WARRANTIES REGARDING THE APPLICATION AND ANY PART OF IT (INCLUDING, WITHOUT LIMITATION, THE SITE, ANY SMART CONTRACT, OR ANY EXTERNAL WEBSITES), INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, CORRECTNESS, ACCURACY, OR RELIABILITY. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, WE, OUR SUBSIDIARIES, AFFILIATES, AND LICENSORS DO NOT REPRESENT OR WARRANT TO YOU THAT: (I) YOUR ACCESS TO OR USE OF THE APPLICATION WILL MEET YOUR REQUIREMENTS, (II) YOUR ACCESS TO OR USE OF THE APPLICATION WILL BE UNINTERRUPTED, TIMELY, SECURE OR FREE FROM ERROR, (III) USAGE DATA PROVIDED THROUGH THE APPLICATION WILL BE ACCURATE, (III) THE APPLICATION OR ANY CONTENT, SERVICES, OR FEATURES MADE AVAILABLE ON OR THROUGH THE APPLICATION ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS, OR (IV) THAT ANY DATA THAT YOU DISCLOSE WHEN YOU USE THE APPLICATION WILL BE SECURE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES IN CONTRACTS WITH CONSUMERS, SO SOME OR ALL OF THE ABOVE EXCLUSIONS MAY NOT APPLY TO YOU.
 
@@ -91,7 +90,7 @@ E. CRYPTOSTRIKERS IS NOT RESPONSIBLE FOR LOSSES DUE TO BLOCKCHAINS OR ANY OTHER 
 
 F. SOME JURISDICTIONS MAY NOT ALLOW FOR THE USE, PURCHASE, OR SALE OF THE CARDS. BY USING THE SITE, APPLICATION, OR THE CARDS (INCLUDING THE PURCHASE, SALE, OR USE OF THE CARDS), YOU ASSUME THE RISK THAT THE SITE, THE APPLICATION, OR THE CARDS MAY VIOLATE LOCAL, MUNICIPAL, STATE OR NATIONAL LAWS OF THE JURISDICTION IN WHICH YOU ARE DOMICILED. YOU FURTHER ASSUME THE RISK THAT SUCH USE MAY EXPOSE YOU TO LEGAL LIABILITIES. YOU AGREE BY USING THE SITE, THE APPLICATION, OR THE CARDS THAT YOU WILL HOLD CRYPTOSTRIKERS, OUR SUBSIDIARIES, AFFILIATES, EMPLOYEES OR CONTRACTORS HARMLESS FOR ANY CAUSE OF ACTION OR CLAIM MADE OR BROUGHT AGAINST YOU RELATED TO YOUR USE OF THE SITE, THE APPLICATION OR THE CARDS AND YOU AGREE NOT TO PURSUE ANY THIRD-PARTY CLAIMS AGAINST CRYPTOSTRIKERS, OUR SUBSIDIARIES, AFFILIATES, EMPLOYEES OR CONTRACTORS IN CONNECTION WITH ANY LEGAL CLAIMS OR CAUSES OF ACTIONS (OR THREATS THEREOF) MADE OR BROUGHT AGAINST YOU.
 
-8. Limitation of Liability
+**8. Limitation of Liability**
 
 A. YOU UNDERSTAND AND AGREE THAT WE, OUR SUBSIDIARIES, AFFILIATES, AND LICENSORS WILL NOT BE LIABLE TO YOU OR TO ANY THIRD PARTY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES WHICH YOU MAY INCUR, HOWSOEVER CAUSED AND UNDER ANY THEORY OF LIABILITY, INCLUDING, WITHOUT LIMITATION, ANY LOSS OF PROFITS (WHETHER INCURRED DIRECTLY OR INDIRECTLY), LOSS OF GOODWILL OR BUSINESS REPUTATION, LOSS OF DATA, COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR ANY OTHER INTANGIBLE LOSS, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
@@ -101,7 +100,7 @@ C. YOU ACKNOWLEDGE AND AGREE THAT WE HAVE MADE THE APPLICATION AVAILABLE TO YOU 
 
 D. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, AND SOME JURISDICTIONS ALSO LIMIT DISCLAIMERS OR LIMITATIONS OF LIABILITY FOR PERSONAL INJURY FROM CONSUMER PRODUCTS, SO THE ABOVE LIMITATIONS MAY NOT APPLY TO PERSONAL INJURY CLAIMS.
 
-9. Assumption of Risk
+**9. Assumption of Risk**
 
 You accept and acknowledge each of the following:
 
@@ -119,36 +118,35 @@ F. The regulatory regime governing blockchain technologies, cryptocurrencies, an
 
 G. Upgrades by Ethereum to the Ethereum platform, a hard fork in the Ethereum platform, or a change in how transactions are confirmed on the Ethereum platform may have unintended, adverse effects on all blockchains using the ERC-20 standard, including the CryptoStrikers ecosystem.
 
-10. Indemnification
+**10. Indemnification**
 
 You agree to hold harmless and indemnify CryptoStrikers and its subsidiaries, affiliates, officers, agents, employees, advertisers, licensors, suppliers or partners from and against any claim, liability, loss, damage (actual and consequential) of any kind or nature, suit, judgment, litigation cost, and attorneys’ fees arising out of or in any way related to (i) your breach of these Terms, (ii) your misuse of the Application, or (iii) your violation of applicable able laws, rules or regulations in connection with your access to or use of the Application. You agree that CryptoStrikers will have control of the defense or settlement of any such claims.
 
-11. External Sites
+**11. External Sites**
 
 The Application may include hyperlinks to other websites or resources (collectively, “External Sites”), which are provided solely as a convenience to our users. We have no control over any External Sites. You acknowledge and agree that we are not responsible for the availability of any External Sites, and that we do not endorse any advertising, products or other materials on or made available from any External Sites. Furthermore, you acknowledge and agree that we are not liable for any loss or damage which may be incurred as a result of the availability or unavailability of the External Sites, or as a result of any reliance placed by you upon the completeness, accuracy or existence of any advertising, products or other materials on, or made available from, any External Sites.
 
-12. Changes to the Terms
+**12. Changes to the Terms**
 
 The Application may include hyperlinks to other websites or resources (collectively, “External Sites”), which are provided solely as a convenience to our users. We have no control over any External Sites. You acknowledge and agree that we are not responsible for the availability of any External Sites, and that we do not endorse any advertising, products or other materials on or made available from any External Sites. Furthermore, you acknowledge and agree that we are not liable for any loss or damage which may be incurred as a result of the availability or unavailability of the External Sites, or as a result of any reliance placed by you upon the completeness, accuracy or existence of any advertising, products or other materials on, or made available from, any External Sites.
 
-13. Changes to the Application
+**13. Changes to the Application**
 
 We may make changes to the Terms from time to time. When we make changes, we will make the updated Terms available on the Application and update the “Last Updated” date at the beginning of these Terms accordingly. Please check these Terms periodically for changes. Any changes to the Terms will apply on the date that they are made, and your continued access to or use of the Application after the Terms have been updated will constitute your binding acceptance of the updates.  If you do not agree to any revised Terms, you may not access or use the Application.
 
-14. Children
+**14. Children**
 
 YOUR AFFIRM THAT YOU ARE OVER THE AGE OF 16, AS THE APPLICATION IS NOT INTENDED FOR CHILDREN UNDER THE AGE OF 16. IF YOU ARE 16 OR OLDER BUT UNDER THE AGE OF 18, OR THE LEGAL AGE OF MAJORITY WHERE YOU RESIDE IF THAT JURISDICTION HAS AN OLDER AGE OF MAJORITY, THEN YOU AGREE TO REVIEW THESE TERMS WITH YOUR PARENT OR GUARDIAN TO MAKE SURE THAT BOTH YOU AND YOUR PARENT OR GUARDIAN UNDERSTAND AND AGREE TO THESE TERMS. YOU AGREE TO HAVE YOUR PARENT OR GUARDIAN REVIEW AND ACCEPT THESE TERMS ON YOUR BEHALF. IF YOU ARE A PARENT OR GUARDIAN AGREEING TO THE TERMS FOR THE BENEFIT OF A CHILD OVER 16, THEN YOU AGREE TO AND ACCEPT FULL RESPONSIBILITY FOR THAT CHILD’S USE OF THE APPLICATION, INCLUDING ALL FINANCIAL CHARGES AND LEGAL LIABILITY THAT HE OR SHE MAY INCUR.
 
-15. Privacy Policy
+**15. Privacy Policy**
 
 Our Privacy Policy describes the ways we collect, use, store and disclose your personal information, and is hereby incorporated by this reference into these Terms. You agree to the collection, use, storage, and disclosure of your data in accordance with our Privacy Policy.
 
-16. Referral Program
+**16. Referral Program**
 
 Our Referral Program outlines the rules by which a user may join the CryptoStrikers Referral Program, and is hereby incorporated by this reference into these Terms. You agree to the participate in the Referral Program in accordance with the rules outlined.
 
-
-17. Dispute Resolution; Arbitration
+**17. Dispute Resolution; Arbitration**
 
 We try to provide clear rules so that we can limit or hopefully avoid disputes between you and us. If a dispute does arise, however, it's useful to know up front where it can be resolved and what laws will apply. Please read this Section 17 carefully. It requires you to arbitrate disputes with CryptoStrikers, and limits the manner in which you can seek relief from us. 
 
@@ -156,7 +154,7 @@ You agree that all disputes arising out of or in connection with these Terms, in
 
 WITH RESPECT TO ANY DISPUTE ARISING OUT OF OR RELATED TO THESE TERMS, INCLUDING WITHOUT LIMITATION DISPUTES RELATED TO THE APPLICATION, THE SITE, THE SMART CONTRACTS, OR ANY PRODUCTS SOLD OR DISTRIBUTED THROUGH THE APPLICATION, THE SITE, OR THE SMART CONTRACTS: (I) YOU HEREBY EXPRESSLY GIVE UP YOUR RIGHT TO HAVE A TRIAL BY JURY; AND (II) YOU HEREBY EXPRESSLY GIVE UP YOUR RIGHT TO PARTICIPATE AS A MEMBER OF A CLASS OF CLAIMANTS IN ANY LAWSUIT, INCLUDING BUT NOT LIMITED TO CLASS ACTION LAWSUITS INVOLVING ANY SUCH DISPUTE.
 
-18. General
+**18. General**
 
 These Terms constitute the entire legal agreement between you and CryptoStrikers, govern your access to and use of the Application, and completely replace any prior or contemporaneous agreements between the parties related to your access to or use of the Application, whether oral or written. There are no third party beneficiaries to these Terms. The parties are independent contractors, and nothing in these Terms create any agency, partnership, or joint venture. The language in these Terms will be interpreted as to its fair meaning, and not strictly for or against any party. You may not assign any or your rights or obligations under these Terms, whether by operation of law or otherwise, without our prior written consent. We may assign our rights and obligations under these Terms in our sole discretion to an affiliate, or in connection with an acquisition, sale or merger. Should any part of these Terms be held invalid or unenforceable, that portion shall be construed consistent with applicable law and the remaining portions will remain in full force and effect. Our failure to enforce any provision of these Terms will not be deemed a waiver of such provision, nor of the right to enforce such provision. These Terms will be governed by and construed in accordance with the laws of the state of Indiana and the federal laws of United States applicable therein, without regard to its conflicts of law rules and principles. Subject to Section 17, any legal action or proceeding arising under these Terms will be brought exclusively in the federal or provincial courts located in Indianapolis, IN, and the parties irrevocably consent to the personal jurisdiction and venue there. We will not be liable for any failure or delayed performance of our obligations that result from any condition beyond our reasonable control, including, but not limited to, governmental action, acts of terrorism, earthquake, fire, flood, acts of God, labor conditions, power failures, Internet disturbances, or acts or omissions of third parties. You agree that we may provide you with notices (including, without limitation those regarding changes to these Terms) by email, regular mail, or postings on the Application. By providing us with your email address, you consent to our using the email address to send you any notices required by law in lieu of communication by postal mail.
 
