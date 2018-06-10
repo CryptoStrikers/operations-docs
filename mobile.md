@@ -4,7 +4,7 @@ Both iOS and Android users can use CryptoStrikers via one of these compatible DA
 
 # Cipher
 
-                                                   
+UPDATE                                                   
 
 **Getting Started:**
 
@@ -19,7 +19,7 @@ Both iOS and Android users can use CryptoStrikers via one of these compatible DA
 
 # Toshi
 
-                                                   
+UPDATE                                                
 
 **Getting Started:**
 
@@ -39,7 +39,7 @@ Both iOS and Android users can use CryptoStrikers via one of these compatible DA
 
 # TrustWallet
 
-                                                   
+UPDATE                                                    
 
 **Getting Started:**
 
