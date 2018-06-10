@@ -47,7 +47,7 @@ Users that collect the requisite cards to obtain either reward are ‘Qualified 
 
 Qualified Collectors can earn either or both Awards. Qualified Collectors of any Award will need to claim such Award by clicking the applicable “Claim Award” button on their Profile page starting at 12:00am EDT on July 16, 2018. CryptoStrikers will send Qualified Collectors an email with information on how to claim their Award. Users who do not claim Awards by this process by 12:01 EDT on July 25, 2018 will forfeit them. 
 
-Form more information, see the [Award Giveaway Rules](https://github.com/CryptoStrikers/legal-docs/blob/master/award-giveaway.md). For instructions on how to collect all the cards, see supra “Our Cards,” Section 1(a)-(d).
+Form more information, see the [Award Giveaway Rules](https://github.com/CryptoStrikers/operations-docs/blob/master/award-giveaway.md). For instructions on how to collect all the cards, see supra “Our Cards,” Section 1(a)-(d).
 
 B. Termination and Changes
 
@@ -140,11 +140,11 @@ YOUR AFFIRM THAT YOU ARE OVER THE AGE OF 16, AS THE APPLICATION IS NOT INTENDED 
 
 **15. Privacy Policy**
 
-Our [Privacy Policy](https://github.com/CryptoStrikers/legal-docs/blob/master/privacy.md) describes the ways we collect, use, store and disclose your personal information, and is hereby incorporated by this reference into these Terms. You agree to the collection, use, storage, and disclosure of your data in accordance with our Privacy Policy.
+Our [Privacy Policy](https://github.com/CryptoStrikers/operations-docs/blob/master/privacy.md) describes the ways we collect, use, store and disclose your personal information, and is hereby incorporated by this reference into these Terms. You agree to the collection, use, storage, and disclosure of your data in accordance with our Privacy Policy.
 
 **16. Referral Program**
 
-Our [Referral Program](https://github.com/CryptoStrikers/legal-docs/blob/master/referral-program.md) outlines the rules by which a user may join the CryptoStrikers Referral Program, and is hereby incorporated by this reference into these Terms. You agree to the participate in the Referral Program in accordance with the rules outlined.
+Our [Referral Program](https://github.com/CryptoStrikers/operations-docs/blob/master/referral-program.md) outlines the rules by which a user may join the CryptoStrikers Referral Program, and is hereby incorporated by this reference into these Terms. You agree to the participate in the Referral Program in accordance with the rules outlined.
 
 **17. Dispute Resolution; Arbitration**
 
