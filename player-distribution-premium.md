@@ -112,5 +112,4 @@ Player Card of Day - 100 cards
 
 #049 - Keylor Navas: 48 cards
 
-#125 - Sadio Mané: 100 cards
 
