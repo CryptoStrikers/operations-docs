@@ -10,7 +10,7 @@ After installing the mobile app and opening:
 
 1️⃣ Click Create A New Wallet.
 
-![Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/Cipher1.PNG]
+![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/Cipher1.PNG)
 
 2️⃣ You must agree with the terms of service to continue.
 
