@@ -48,6 +48,18 @@ UPDATE
 * If you already have a wallet that you want to use with the Marketplace, tap ‘Import Wallet’
 * Once you’ve imported your wallet, tap ‘Browser’ and navigate to www.cryptostrikers.com
 
+# Status
+
+UPDATE                                                    
+
+**Getting Started:**
+
+* Install TrustWallet from the Apple App Store or Google Play
+* Open the TrustWallet app, and tap ‘Create Wallet’ if you don’t already have a wallet
+* If you already have a wallet that you want to use with the Marketplace, tap ‘Import Wallet’
+* Once you’ve imported your wallet, tap ‘Browser’ and navigate to www.cryptostrikers.com
+
+
 # Having issues?
 
 Please contact us at support@cryptostrikers.com or chat with us on our #support channel on  [Discord](https://discord.gg/7CSBBBb).
