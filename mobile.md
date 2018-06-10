@@ -1,21 +1,44 @@
 # Mobile Guide 
 
-Both iOS and Android users can use CryptoStrikers via one of these compatible DApp browsers: Cipher, Toshi, TrustWallet, and Status. 
+Both iOS and Android users can use CryptoStrikers via one of these compatible DApp browsers: Cipher, Toshi, and TrustWallet. 
 
 ## Cipher
 
-UPDATE                                                   
+**Download and Installation Process**
 
-**Getting Started:**
+After installing the mobile app and opening:
 
-* Start by installing the Cipher Browser from the Apple App Store or Google Play
-* Open Cipher, and navigate to your settings by tapping the gear icon to import your wallet
-* One you’ve imported and unlocked your wallet, return to the browser and navigate to www.cryptostrikers.com
+1️⃣ Click Create A New Wallet.
 
+IMAGE
 
+2️⃣ You must agree with the terms of service to continue.
 
+IMAGE
 
+3️⃣ You'll be asked to pick an identicon for your wallet before it is generated.
 
+IMAGE
+
+4️⃣ Write down your 12 word recovery phrase before moving to the next step.
+
+IMAGE
+
+5️⃣ Verify each of the 12 words in your recovery phrase or skip to the next step.
+
+IMAGE
+
+6️⃣ iOS users will be prompted to set up TouchID.
+
+IMAGE
+
+7️⃣ Your wallet will then be created. 
+
+IMAGE
+
+8️⃣ When you click done, select the browser tab on the next screen. Then go to www.cryptostrikers.com.
+
+IMAGE
 
 ### Toshi
 
