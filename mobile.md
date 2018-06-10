@@ -40,7 +40,7 @@ After installing the mobile app and opening:
 
 ![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/Cipher6.PNG)
 
-## Cipher
+## Toshi
 
 **Download and Installation Process**
 
