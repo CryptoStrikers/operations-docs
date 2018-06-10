@@ -1,6 +1,6 @@
 # Mobile Guide 
 
-Both iOS and Android users can use CryptoStrikers via one of these compatible DApp browsers: [Cipher](https://www.cipherbrowser.com), [Toshi](https://www.toshi.org), and TrustWallet(http://trustwallet.com). 
+Both iOS and Android users can use CryptoStrikers via one of these compatible DApp browsers: [Cipher](https://www.cipherbrowser.com), [Toshi](https://www.toshi.org), and [TrustWallet](http://trustwallet.com). 
 
 ## Cipher
 
@@ -14,31 +14,31 @@ After installing the mobile app and opening:
 
 2️⃣ You must agree with the terms of service to continue.
 
-[![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/cipher2.png)]
+![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/cipher2.png)
 
 3️⃣ You'll be asked to pick an identicon for your wallet before it is generated.
 
-[![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/cipher2a.png)]
+![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/cipher2a.png)
 
 4️⃣ Write down your 12 word recovery phrase before moving to the next step.
 
-[![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/cipher3.png)]
+![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/cipher3.png)
 
 5️⃣ Verify each of the 12 words in your recovery phrase or skip to the next step.
 
-[![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/cipher4a.png)]
+![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/cipher4a.png)
 
 6️⃣ iOS users will be prompted to set up TouchID.
 
-[![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/cipher4b.png)]
+[![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/cipher4b.png)
 
 7️⃣ Your wallet will then be created. 
 
-[![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/cipher5.png)]
+![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/cipher5.png)
 
 8️⃣ When you click done, select the browser tab on the next screen. Then go to www.cryptostrikers.com.
 
-[![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/cipher6.png)]
+![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/cipher6.png)
 
 ### Toshi
 
