@@ -1,4 +1,4 @@
-# Player Distribution - PremiumPack
+# Player Distribution - Premium Pack
 
 **_The following represents the player distribution found in each Premium Pack sale. 1 sale = 500 packs._**
 
