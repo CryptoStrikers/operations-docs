@@ -6,7 +6,7 @@
 
 Player Card of Day - 100 cards 
 
-**Diamond**
+💎**Diamond**
 
 #000 - Lionel Messi: 19 cards
 
@@ -16,7 +16,7 @@ Player Card of Day - 100 cards
 
 #003 - Mohamed Salah: 19 cards
 
-**Gold**
+🏅**Gold**
 
 #004 - Robert Lewandowski: 24 cards
 
@@ -50,7 +50,7 @@ Player Card of Day - 100 cards
 
 #019 - Paul Pogba: 24 cards
 
-**Silver**
+🥈**Silver**
 
 #020 - Isco: 48 cards
 
