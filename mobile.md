@@ -10,35 +10,35 @@ After installing the mobile app and opening:
 
 1️⃣ Click Create A New Wallet.
 
-IMAGE
+[![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/cipher1.png)]
 
 2️⃣ You must agree with the terms of service to continue.
 
-IMAGE
+[![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/cipher2.png)]
 
 3️⃣ You'll be asked to pick an identicon for your wallet before it is generated.
 
-IMAGE
+[![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/cipher2a.png)]
 
 4️⃣ Write down your 12 word recovery phrase before moving to the next step.
 
-IMAGE
+[![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/cipher3.png)]
 
 5️⃣ Verify each of the 12 words in your recovery phrase or skip to the next step.
 
-IMAGE
+[![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/cipher4a.png)]
 
 6️⃣ iOS users will be prompted to set up TouchID.
 
-IMAGE
+[![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/cipher4b.png)]
 
 7️⃣ Your wallet will then be created. 
 
-IMAGE
+[![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/cipher5.png)]
 
 8️⃣ When you click done, select the browser tab on the next screen. Then go to www.cryptostrikers.com.
 
-IMAGE
+[![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/cipher6.png)]
 
 ### Toshi
 
