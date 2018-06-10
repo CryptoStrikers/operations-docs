@@ -18,7 +18,7 @@ After installing the mobile app and opening:
 
 3️⃣ You'll be asked to pick an identicon for your wallet before it is generated.
 
-![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/Cipher2a.PNG)
+![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/Cipher2a.jpg)
 
 4️⃣ Write down your 12 word recovery phrase before moving to the next step.
 
