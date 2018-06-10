@@ -58,7 +58,7 @@ After installing the mobile app and opening:
 
 ![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/Toshi3.PNG)
 
-## TrustWallet
+# TrustWallet
 
 **Download and Installation Process**
 
