@@ -66,23 +66,23 @@ After installing the mobile app and opening:
 
 1️⃣ Click Create Wallet.
 
-
+![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/Trust1.PNG)
 
 2️⃣ The next step is to backup your wallet with a password.
 
-
+![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/Trust2.PNG)
 
 3️⃣ Set a password and click Done.
 
-
+![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/Trust3.jpg)
 
 4️⃣ You wallet has been created!
 
-
+![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/Trust4.PNG)
 
 5️⃣ Select the browser tab on the next screen. Then go to www.cryptostrikers.com.
 
-
+![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/Trust5.jpg)
 
 ---                                                 
 
