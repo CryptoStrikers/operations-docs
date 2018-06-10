@@ -60,26 +60,31 @@ After installing the mobile app and opening:
 
 ## TrustWallet
 
-UPDATE                                                    
+**Download and Installation Process**
 
-**Getting Started:**
+After installing the mobile app and opening:
 
-* Install TrustWallet from the Apple App Store or Google Play
-* Open the TrustWallet app, and tap ‘Create Wallet’ if you don’t already have a wallet
-* If you already have a wallet that you want to use with the Marketplace, tap ‘Import Wallet’
-* Once you’ve imported your wallet, tap ‘Browser’ and navigate to www.cryptostrikers.com
+1️⃣ Click Create Wallet.
 
-# Status
 
-UPDATE                                                    
 
-**Getting Started:**
+2️⃣ The next step is to backup your wallet with a password.
 
-* Install TrustWallet from the Apple App Store or Google Play
-* Open the TrustWallet app, and tap ‘Create Wallet’ if you don’t already have a wallet
-* If you already have a wallet that you want to use with the Marketplace, tap ‘Import Wallet’
-* Once you’ve imported your wallet, tap ‘Browser’ and navigate to www.cryptostrikers.com
 
+
+3️⃣ Set a password and click Done.
+
+
+
+4️⃣ You wallet has been created!
+
+
+
+5️⃣ Select the browser tab on the next screen. Then go to www.cryptostrikers.com.
+
+
+
+---                                                 
 
 # Having issues?
 
