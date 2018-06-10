@@ -59,13 +59,13 @@ Your digital wallet acts as your login to the CryptoStrikers application. You wi
 
 Here is a [step-by-step guide](https://medium.com/cryptostrikers/getting-started-how-to-install-metamask-4a2d9c18b4cc) to install MetaMask. If video is more your thing, click the image below to watch a video.
 
-[![Image Alt Text](https://github.com/CryptoStrikers/legal-docs/blob/master/metamask.png)](https://www.youtube.com/watch?time_continue=4&v=tfETpi-9ORs)
+[![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/metamask.png)](https://www.youtube.com/watch?time_continue=4&v=tfETpi-9ORs)
 
 **Why is MetaMask locked?**
 
 MetaMask automatically locks your account after a certain period of time. To unlock MetaMask, simply click on the MetaMask extension and type in your password.
 
-![Image Alt Text](https://github.com/CryptoStrikers/legal-docs/blob/master/metamask-locked.png)
+![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/metamask-locked.png)
 
 **Reinstalling MetaMask**
 
@@ -81,7 +81,7 @@ You need to convert your currency (e.g. USD, CAD, GBP, etc.) into Ether to pay f
 
 **_For U.S. citizens only:_** From the CryptoStrikers web app, you can buy Ether (ETH) in MetaMask. ETH is the digital currency that enables CryptoStrikers to operate. Users who are accessing CryptoStrikers from a mobile wallet, or do not wish to use the Coinbase widget from the MetaMask browser extension, will need to purchase ETH as described below.
 
-![Image Alt Text](https://github.com/CryptoStrikers/legal-docs/blob/master/metamask-eth.png)
+![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/metamask-eth.png)
 
 **_For everyone else:_** You will need to purchase ETH from an exchange, and then transfer the ETH from your exchange wallet to your MetaMask wallet. Unfortunately, you cannot play CryptoStrikers with only an exchange account.
 
@@ -93,7 +93,7 @@ For U.S. citizens only: From the CryptoStrikers web app, you are able to purchas
 
 For everyone else: You need to buy ETH from an exchange using normal fiat currency. Copy your MetaMask address by clicking on the copy icon‘’ next to your account. Go to your exchange, click ‘Accounts’, and select your ETH Wallet and click ‘send’. Paste the MetaMask address in the box with the amount you’d like to transfer.
 
-[![Image Alt Text](https://github.com/CryptoStrikers/legal-docs/blob/master/metamask-eth-global.png)](https://www.youtube.com/watch?v=PtdMDtCVck0)
+[![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/metamask-eth-global.png)](https://www.youtube.com/watch?v=PtdMDtCVck0)
 
 **What is ‘gas’?**
 
