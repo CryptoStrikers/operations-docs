@@ -1,6 +1,6 @@
 # Mobile Guide 
 
-Both iOS and Android users can use CryptoStrikers via one of these compatible DApp browsers: Cipher, Toshi, and TrustWallet. 
+Both iOS and Android users can use CryptoStrikers via one of these compatible DApp browsers: [Cipher](https://www.cipherbrowser.com), [Toshi](https://www.toshi.org), and TrustWallet(http://trustwallet.com). 
 
 ## Cipher
 
