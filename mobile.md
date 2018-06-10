@@ -30,7 +30,7 @@ After installing the mobile app and opening:
 
 6️⃣ iOS users will be prompted to set up TouchID.
 
-[![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/Cipher4b.PNG)
+![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/Cipher4b.PNG)
 
 7️⃣ Your wallet will then be created. 
 
@@ -38,7 +38,7 @@ After installing the mobile app and opening:
 
 8️⃣ When you click done, select the browser tab on the next screen. Then go to www.cryptostrikers.com.
 
-![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/cipher6.PNG)
+![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/Cipher6.PNG)
 
 ### Toshi
 
