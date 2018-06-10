@@ -14,7 +14,7 @@ After installing the mobile app and opening:
 
 2️⃣ You must agree with the terms of service to continue.
 
-![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/cipher2.png)
+![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/Cipher2.PNG)
 
 3️⃣ You'll be asked to pick an identicon for your wallet before it is generated.
 
