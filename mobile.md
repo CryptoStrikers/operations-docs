@@ -42,22 +42,21 @@ After installing the mobile app and opening:
 
 ### Toshi
 
-UPDATE                                                
+**Download and Installation Process**
 
-**Getting Started:**
+After installing the mobile app and opening:
 
-* Install Toshi from the Apple App Store or Google Play
-* Open the Toshi app, and tap ‘Sign in’ if you already have a wallet that you want to use with the Marketplace. Otherwise you can create a new wallet by tapping Create a new account’
-* Tap ‘Dapps’, and navigate to www.cryptostrikers.com via the Dapp URL bar
+1️⃣ Click Create a new account.
 
+![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/Toshi1.PNG)
 
+2️⃣ You must agree with the terms of service to continue.
 
+![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/Toshi2.PNG)
 
+3️⃣ Your wallet has been created! Enter www.crypstostrikers.com into the search box to start playing.
 
-
-
-
-
+![Image Alt Text](https://github.com/CryptoStrikers/operations-docs/blob/master/images/Toshi3.PNG)
 
 ## TrustWallet
 
