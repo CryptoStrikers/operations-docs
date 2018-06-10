@@ -85,4 +85,4 @@ UPDATE
 
 # Having issues?
 
-Please contact us at support@cryptostrikers.com or chat with us on our #support channel on  [Discord](https://discord.gg/7CSBBBb).
+Please contact us at support@cryptostrikers.com or chat with us on our #support channel on [Discord](https://discord.gg/7CSBBBb).
