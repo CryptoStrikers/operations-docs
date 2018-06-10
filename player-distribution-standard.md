@@ -2,7 +2,7 @@
 
 **_The following represents the player distribution found in each Standard Pack sale. 1 sale = 139 packs._**
 
-**Diamond**
+💎**Diamond**
 
 #000 - Lionel Messi: 1 card
 
@@ -12,7 +12,7 @@
 
 #003 - Mohamed Salah: 1 card
 
-**Gold**
+🏅**Gold**
 
 #004 - Robert Lewandowski: 2 cards
 
@@ -46,7 +46,7 @@
 
 #019 - Paul Pogba: 2 cards
 
-**Silver**
+🥈**Silver**
 
 #020 - Isco: 4 cards
 
@@ -108,7 +108,7 @@
 
 #049 - Keylor Navas: 4 cards
 
-**Bronze**
+🥉**Bronze**
 
 #050 - Thiago Silva: 8 cards
 
