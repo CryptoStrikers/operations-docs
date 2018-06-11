@@ -194,7 +194,7 @@ There are 2 awards that all CryptoStrikers users are eligible to win.
 
 (2) Iconics - collection of all 32 individual player cards from set
 
-Users who qualify for any of the contest prizes (users can win any or all of the prizes) will be eligible for the following prize awards:
+Users who qualify for any of the contest prizes (users can win any or all of the prizes) will be eligible for the following prize awards.
 
 **Awards**
 
