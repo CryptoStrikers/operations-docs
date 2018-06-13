@@ -35,7 +35,7 @@ Users can claim Referral Bonuses by clicking the applicable ‘Withdraw Bonus’
 
 **Sharing Referral Links**
 
-Referrals should only be used for personal and non-commercial purposes, and only shared with personal connections that will appreciate receiving these invitations. Referral links should not be published or distributed where there is no reasonable basis for believing that all or most of the recipients are personal friends (such as coupon websites, Reddit, or Wikipedia). CryptoStrikers may terminate participation in The Program for any User that violates these provisions.
+Referrals should only be used for personal and non-commercial purposes, and only shared with personal or industry connections that will appreciate receiving these invitations. Referral links should not be published or distributed where there is no reasonable basis for believing that most of the recipients are personal friends or industry connections (such as coupon websites or Wikipedia). CryptoStrikers may terminate participation in The Program for any User that violates these provisions.
 
 **Multiple Referrals**
 
