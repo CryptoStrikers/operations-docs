@@ -1,5 +1,5 @@
 # CryptoStrikers Referral Program Terms
-Last Updated: June 8, 2018
+Last Updated: June 12, 2018
 
 The CryptoStrikers Referral Program (“The Program”) allows registered CryptoStrikers users (each a “User”) to earn free cards (“Award Cards”) and qualify for Ethereum payments (‘Referral Bonuses’’) by referring friends and other users to register and use CryptoStrikers.
 
