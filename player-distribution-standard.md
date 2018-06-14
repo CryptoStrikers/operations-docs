@@ -1,6 +1,6 @@
 # Player Distribution - Standard Pack
 
-**_We load Standard Packs into the smart contract in batches of 139 packs. The following represents the exact player distribution for each of these batches of 139 packs._**
+**_We load Standard Packs into the smart contract in batches of 139 packs. The following represents the exact player distribution for each of these batches of 139 packs. The hard cap enforced by the smart contract prevents us from ever loading in more than 544 batches._**
 
 💎**Diamond**
 
