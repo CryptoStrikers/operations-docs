@@ -1,6 +1,6 @@
 # Player Distribution - Standard Pack
 
-**_The following represents the player distribution found in each Standard Pack sale. 1 sale = 139 packs._**
+**_We load Standard Packs into the smart contract in batches of 139 packs. The following represents the exact player distribution for each of these batches of 139 packs._**
 
 💎**Diamond**
 
