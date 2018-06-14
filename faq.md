@@ -129,7 +129,9 @@ Check the Buy Packs page often or keep any eye out for announcements via email, 
 
 **How do I sell CryptoStrikers cards?**
 
-Go to the My Club page and click one of the cards that you own. There will be a button to ‘Sell’ your card on the Card Detail page. 
+Currently, click the OpenSea link in the Marketplace tab - each of your cards are listed on OpenSea. You can see them by clicking your Account. Click one of the cards you own, and you will see a Sell button to start an auction.
+
+In the future, CryptoStrikers will launch its own marketplace. There, when you click one of the cards that you own, there will be a button to ‘Sell’ your card on the Card Detail page. 
 
 **Can I list multiple cards in a single sale offer?**
 
